@@ -1,0 +1,268 @@
+[
+ {
+  "q": "How often is my general waste bin collected?",
+  "type": "Known",
+  "rel": [
+   "W2"
+  ],
+  "top3": [
+   "W2",
+   "W1",
+   "W3"
+  ],
+  "top_score": 7.62,
+  "answered": true,
+  "ndcg3": 1.0
+ },
+ {
+  "q": "Can I put meat scraps in the green FOGO bin?",
+  "type": "Known",
+  "rel": [
+   "W3"
+  ],
+  "top3": [
+   "W3",
+   "W1",
+   "W4"
+  ],
+  "top_score": 8.04,
+  "answered": true,
+  "ndcg3": 1.0
+ },
+ {
+  "q": "How many free hard waste collections do I get each year?",
+  "type": "Known",
+  "rel": [
+   "H1"
+  ],
+  "top3": [
+   "H1",
+   "H2",
+   "H4"
+  ],
+  "top_score": 11.59,
+  "answered": true,
+  "ndcg3": 1.0
+ },
+ {
+  "q": "When does my pet registration expire?",
+  "type": "Known",
+  "rel": [
+   "P2"
+  ],
+  "top3": [
+   "P2",
+   "P1",
+   "P3"
+  ],
+  "top_score": 8.09,
+  "answered": true,
+  "ndcg3": 1.0
+ },
+ {
+  "q": "How much is a tradesperson parking permit?",
+  "type": "Known",
+  "rel": [
+   "K1"
+  ],
+  "top3": [
+   "K1",
+   "K3",
+   "K2"
+  ],
+  "top_score": 8.27,
+  "answered": true,
+  "ndcg3": 1.0
+ },
+ {
+  "q": "Do I need to pay to register my dog this year?",
+  "type": "Known",
+  "rel": [
+   "P2"
+  ],
+  "top3": [
+   "P3",
+   "P1",
+   "P2"
+  ],
+  "top_score": 5.12,
+  "answered": true,
+  "ndcg3": 0.5
+ },
+ {
+  "q": "Can I put glass jars in the recycling bin?",
+  "type": "Known",
+  "rel": [
+   "W5"
+  ],
+  "top3": [
+   "W5",
+   "W6",
+   "W1"
+  ],
+  "top_score": 8.07,
+  "answered": true,
+  "ndcg3": 1.0
+ },
+ {
+  "q": "What number do I call if my bin was stolen?",
+  "type": "Known",
+  "rel": [
+   "W7"
+  ],
+  "top3": [
+   "W7",
+   "C1",
+   "W1"
+  ],
+  "top_score": 4.66,
+  "answered": true,
+  "ndcg3": 1.0
+ },
+ {
+  "q": "I'm throwing out an old fridge and a mattress - how do I get rid of them and when should I put them out?",
+  "type": "Inferred",
+  "rel": [
+   "H2",
+   "H3",
+   "H4"
+  ],
+  "top3": [
+   "H4",
+   "H3",
+   "P1"
+  ],
+  "top_score": 5.52,
+  "answered": true,
+  "ndcg3": 0.7653606369886217
+ },
+ {
+  "q": "I just adopted a kitten, what do I need to do before registering it?",
+  "type": "Inferred",
+  "rel": [
+   "P1",
+   "P3"
+  ],
+  "top3": [
+   "H4",
+   "P1",
+   "K2"
+  ],
+  "top_score": 1.84,
+  "answered": false,
+  "ndcg3": 0.38685280723454163
+ },
+ {
+  "q": "Should I bag my soft plastics and put them in the recycling?",
+  "type": "Inferred",
+  "rel": [
+   "W5",
+   "W6"
+  ],
+  "top3": [
+   "W6",
+   "W5",
+   "K2"
+  ],
+  "top_score": 12.9,
+  "answered": true,
+  "ndcg3": 1.0
+ },
+ {
+  "q": "My builder needs to park outside my house for a two month renovation - what permit and cost?",
+  "type": "Inferred",
+  "rel": [
+   "K1",
+   "K2"
+  ],
+  "top3": [
+   "K1",
+   "K3",
+   "H2"
+  ],
+  "top_score": 6.51,
+  "answered": true,
+  "ndcg3": 0.6131471927654584
+ },
+ {
+  "q": "Where do grass clippings and leftover food go, and how often is that bin emptied?",
+  "type": "Inferred",
+  "rel": [
+   "W3",
+   "W2"
+  ],
+  "top3": [
+   "W3",
+   "W1",
+   "W4"
+  ],
+  "top_score": 7.16,
+  "answered": true,
+  "ndcg3": 0.6131471927654584
+ },
+ {
+  "q": "When is the next council election?",
+  "type": "Out-of-KB",
+  "rel": [],
+  "top3": [
+   "C1",
+   "P1",
+   "W1"
+  ],
+  "top_score": 2.69,
+  "answered": false,
+  "ndcg3": null
+ },
+ {
+  "q": "Can I get a rebate for installing solar panels?",
+  "type": "Out-of-KB",
+  "rel": [],
+  "top3": [
+   "W1",
+   "W2",
+   "W3"
+  ],
+  "top_score": 0.0,
+  "answered": false,
+  "ndcg3": null
+ },
+ {
+  "q": "What are the opening hours of the city library?",
+  "type": "Out-of-KB",
+  "rel": [],
+  "top3": [
+   "C1",
+   "W7",
+   "P1"
+  ],
+  "top_score": 1.07,
+  "answered": false,
+  "ndcg3": null
+ },
+ {
+  "q": "How do I apply for a planning permit to build an extension?",
+  "type": "Out-of-KB",
+  "rel": [],
+  "top3": [
+   "K1",
+   "K2",
+   "K3"
+  ],
+  "top_score": 5.05,
+  "answered": true,
+  "ndcg3": null
+ },
+ {
+  "q": "Is there a swimming pool near Carlton?",
+  "type": "Out-of-KB",
+  "rel": [],
+  "top3": [
+   "K1",
+   "W1",
+   "W2"
+  ],
+  "top_score": 2.44,
+  "answered": false,
+  "ndcg3": null
+ }
+]

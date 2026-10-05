@@ -1,0 +1,20 @@
+[
+ {"q":"How often is my general waste bin collected?","type":"Known","rel":["W2"]},
+ {"q":"Can I put meat scraps in the green FOGO bin?","type":"Known","rel":["W3"]},
+ {"q":"How many free hard waste collections do I get each year?","type":"Known","rel":["H1"]},
+ {"q":"When does my pet registration expire?","type":"Known","rel":["P2"]},
+ {"q":"How much is a tradesperson parking permit?","type":"Known","rel":["K1"]},
+ {"q":"Do I need to pay to register my dog this year?","type":"Known","rel":["P2"]},
+ {"q":"Can I put glass jars in the recycling bin?","type":"Known","rel":["W5"]},
+ {"q":"What number do I call if my bin was stolen?","type":"Known","rel":["W7"]},
+ {"q":"I'm throwing out an old fridge and a mattress - how do I get rid of them and when should I put them out?","type":"Inferred","rel":["H2","H3","H4"]},
+ {"q":"I just adopted a kitten, what do I need to do before registering it?","type":"Inferred","rel":["P1","P3"]},
+ {"q":"Should I bag my soft plastics and put them in the recycling?","type":"Inferred","rel":["W5","W6"]},
+ {"q":"My builder needs to park outside my house for a two month renovation - what permit and cost?","type":"Inferred","rel":["K1","K2"]},
+ {"q":"Where do grass clippings and leftover food go, and how often is that bin emptied?","type":"Inferred","rel":["W3","W2"]},
+ {"q":"When is the next council election?","type":"Out-of-KB","rel":[]},
+ {"q":"Can I get a rebate for installing solar panels?","type":"Out-of-KB","rel":[]},
+ {"q":"What are the opening hours of the city library?","type":"Out-of-KB","rel":[]},
+ {"q":"How do I apply for a planning permit to build an extension?","type":"Out-of-KB","rel":[]},
+ {"q":"Is there a swimming pool near Carlton?","type":"Out-of-KB","rel":[]}
+]
